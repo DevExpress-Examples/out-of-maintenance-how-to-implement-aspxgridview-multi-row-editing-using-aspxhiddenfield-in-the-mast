@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [EditableDataItem.cs](./CS/WebSite/App_Code/EditableDataItem.cs) (VB: [EditableDataItem.vb](./VB/WebSite/App_Code/EditableDataItem.vb))
+* [TitleWithHiddenField.cs](./CS/WebSite/App_Code/TitleWithHiddenField.cs) (VB: [TitleWithHiddenField.vb](./VB/WebSite/App_Code/TitleWithHiddenField.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+<!-- default file list end -->
 # How to implement ASPxGridView Multi-Row editing using ASPxHiddenField in the Master-Detail scenario
 
 
