@@ -3,9 +3,7 @@ Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Web.UI
-Imports DevExpress.Web.ASPxGridView
-Imports DevExpress.Web.ASPxHiddenField
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Public Class TitleWithHiddenField
 	Implements ITemplate

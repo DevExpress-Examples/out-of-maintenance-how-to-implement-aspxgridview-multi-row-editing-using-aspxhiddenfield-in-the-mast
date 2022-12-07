@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxGridView;
-using DevExpress.Web.ASPxHiddenField;
+using DevExpress.Web;
 using System.Data.OleDb;
 
 public partial class _Default : System.Web.UI.Page {

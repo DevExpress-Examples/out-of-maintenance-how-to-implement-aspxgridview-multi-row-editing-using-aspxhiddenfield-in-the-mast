@@ -3,10 +3,8 @@ Imports System
 Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Web.UI
-Imports DevExpress.Web.ASPxGridView
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 Imports System.Web.UI.WebControls
-Imports DevExpress.Web.ASPxHiddenField
 
 Public Class EditableDataItem
 	Implements ITemplate
